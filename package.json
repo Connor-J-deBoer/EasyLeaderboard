@@ -4,8 +4,8 @@
   "version": "0.0.1",
   "name": "com.connor.easy-leaderboard",
   "documentationUrl": "",
-  "changelogUrl": "https://github.com/qhenshaw/[repourl]/blob/main/CHANGELOG.md",
-  "licensesUrl": "https://github.com/qhenshaw/[repourl]/blob/main/LICENSE.md",
+  "changelogUrl": "https://github.com/Connor-J-deBoer/EasyLeaderboard/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/Connor-J-deBoer/EasyLeaderboard/blob/main/LICENSE.md",
   "description": "Just a couple of scripts that handle Leaderboard boiler plate",
   "unity": "2022.3",
   "dependencies": {

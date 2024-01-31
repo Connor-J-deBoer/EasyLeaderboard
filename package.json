@@ -9,7 +9,9 @@
   "description": "Just a couple of scripts that handle Leaderboard boiler plate",
   "unity": "2022.3",
   "dependencies": {
-
+    "com.unity.services.leaderboards": "2.0.0",
+    "com.unity.services.authentication": "3.1.0",
+    "com.connor.string-helper": "1.0.0"
   },
   "samples": []
 }
